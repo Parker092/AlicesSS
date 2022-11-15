@@ -99,7 +99,7 @@
           sm="6"
           md="4"
         >
-          <p class="ma-0">Alice's Salon & Spa <br /></p>
+          <p class="ma-0">Ministerio de Salud <br /></p>
         </v-col>
       </v-row>
     </v-footer>
