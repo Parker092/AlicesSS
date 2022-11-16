@@ -1,4 +1,4 @@
-# plantilla-vuetify
+# Alice's Salon & Spa Inventory System
 
 ## Project setup
 ```
