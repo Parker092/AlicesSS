@@ -1,4 +1,4 @@
-# Alice's Salon & Spa
+# plantilla-vuetify
 
 ## Project setup
 ```
